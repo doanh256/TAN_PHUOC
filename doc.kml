@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+<Style>
+<ListStyle id="hideChildren">
+<listItemType>checkHideChildren</listItemType>
+</ListStyle>
+</Style>
+<name>KCN TAN PHUOC</name>
+<NetworkLink>
+<name>0/0/0</name>
+<Region>
+<Lod>
+<minLodPixels>-1</minLodPixels>
+<maxLodPixels>-1</maxLodPixels>
+</Lod>
+<LatLonAltBox><west>106.26522805767367</west>
+<north>10.47819827000734</north>
+<east>106.34190354752964</east>
+<south>10.40152278015135</south>
+</LatLonAltBox>
+</Region>
+<Link>
+<href>0/0/0.kml</href>
+<viewRefreshMode>onRegion</viewRefreshMode>
+</Link>
+</NetworkLink>
+<LookAt>
+<longitude>106.28855268178513</longitude>
+<latitude>10.46184201774619</latitude>
+<altitude>0</altitude>
+<range>4702.98689755569376</range>
+<tilt>0</tilt>
+<heading>0</heading>
+</LookAt>
+</Document>
+</kml>
